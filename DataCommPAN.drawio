@@ -10,7 +10,7 @@
         <mxCell id="h61ra64pS-6n00o_fKN8-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="Router 1 - I/O Gate" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-4">
+        <UserObject label="Router 1 - Vodafone 500Mb Fibra" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-4">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="40" y="100" width="140" height="20" as="geometry" />
           </mxCell>
@@ -171,6 +171,30 @@
         </mxCell>
         <mxCell id="9tn0cr-688G3BxiHMD9k-32" value="&lt;div&gt;HP_6900&lt;/div&gt;&lt;div&gt;TrueNAS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=-0.01;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="h61ra64pS-6n00o_fKN8-12" target="9tn0cr-688G3BxiHMD9k-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="630" as="sourcePoint" />
+            <mxPoint y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-35" value="Router 2 - DAP-2610" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-36" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Outdoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="-15.8" y="690" width="25.8" height="99.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-37" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-38" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1ba1e2;shape=mxgraph.mscae.enterprise.wireless_connection;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="714.8" width="42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-40" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="9tn0cr-688G3BxiHMD9k-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="53" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
