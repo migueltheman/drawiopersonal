@@ -1,9 +1,67 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.8.3">
   <diagram name="Página-1" id="EHQeG5raxKptYdDU097a">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h61ra64pS-6n00o_fKN8-1" value="Rede C.A.S.A" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h61ra64pS-6n00o_fKN8-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Router 1 - I/O Gate" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="40" y="100" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="h61ra64pS-6n00o_fKN8-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="sourcePoint" />
+            <mxPoint x="560" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h61ra64pS-6n00o_fKN8-6" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="h61ra64pS-6n00o_fKN8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h61ra64pS-6n00o_fKN8-7" value="&lt;div&gt;AP_Escadaria&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h61ra64pS-6n00o_fKN8-5">
+          <mxGeometry x="0.0389" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h61ra64pS-6n00o_fKN8-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="143" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <UserObject label="OptiXstar_6e_Gb" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="563.3" y="80" width="96.7" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;&lt;u&gt;Linha de Rede Powerline&lt;/u&gt;&lt;/b&gt;" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="340" y="100" width="80" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="h61ra64pS-6n00o_fKN8-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="h61ra64pS-6n00o_fKN8-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h61ra64pS-6n00o_fKN8-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Switch 10Gb + Fibra Alcatel" placeholders="1" name="Variable" id="h61ra64pS-6n00o_fKN8-13">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="10" y="380" width="90" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="h61ra64pS-6n00o_fKN8-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="260" as="sourcePoint" />
+            <mxPoint x="590" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
